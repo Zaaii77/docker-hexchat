@@ -1,6 +1,6 @@
 #!/bin/bash
 
-docker build -t 
+docker build -t hexchat .
 
 xhost +local:docker
 
